@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanTests", "HumanTests\HumanTests.csproj", "{111BC9FD-AAE1-4C28-ABF3-383737190C57}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkeletalSystem", "SkeletalSystem\SkeletalSystem.csproj", "{B44BC592-099A-47B4-8BBB-1A6B902372C3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuscularSystem", "MuscularSystem\MuscularSystem.csproj", "{6784DF0A-77CC-4260-92DC-CDE6C4984E5D}"
@@ -29,16 +27,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaleReproductiveSystem", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegumentarySystem", "IntegumentarySystem\IntegumentarySystem.csproj", "{8F00582F-43E7-49E8-8402-A67919E35ED9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardiovascularSystem.Tests", "CardiovascularSystem.Tests\CardiovascularSystem.Tests.csproj", "{B6EAA8B8-8C4D-46B2-92B8-8F3803D7AC61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{111BC9FD-AAE1-4C28-ABF3-383737190C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{111BC9FD-AAE1-4C28-ABF3-383737190C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{111BC9FD-AAE1-4C28-ABF3-383737190C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{111BC9FD-AAE1-4C28-ABF3-383737190C57}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B44BC592-099A-47B4-8BBB-1A6B902372C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B44BC592-099A-47B4-8BBB-1A6B902372C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B44BC592-099A-47B4-8BBB-1A6B902372C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -87,6 +83,10 @@ Global
 		{8F00582F-43E7-49E8-8402-A67919E35ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F00582F-43E7-49E8-8402-A67919E35ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F00582F-43E7-49E8-8402-A67919E35ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6EAA8B8-8C4D-46B2-92B8-8F3803D7AC61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6EAA8B8-8C4D-46B2-92B8-8F3803D7AC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6EAA8B8-8C4D-46B2-92B8-8F3803D7AC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6EAA8B8-8C4D-46B2-92B8-8F3803D7AC61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
