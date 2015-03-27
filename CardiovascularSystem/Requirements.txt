@@ -1,0 +1,71 @@
+﻿The cardiovascular system consists of the heart, blood vessels, and the approximately 5 liters of blood that the blood vessels transport. 
+Responsible for transporting oxygen, nutrients, hormones, and cellular waste products throughout the body, the cardiovascular system is 
+powered by the body’s hardest-working organ — the heart, which is only about the size of a closed fist. 
+
+Even at rest, the average heart easily pumps over 5 liters of blood throughout the body every minute.
+
+http://en.wikipedia.org/wiki/Heart
+http://en.wikipedia.org/wiki/Heart_valve
+http://www.innerbody.com/image/card01.html
+http://www.livescience.com/34655-human-heart.html
+https://zygotebody.com/
+
+
+Use Cases:
+
+Heart is an Organ
+Heart is a Muscle
+	A Muscle needs a fresh supply of Oxygen and Nutrients
+
+Heart has four Chambers 
+	upper left and right atria; and lower left and right ventricles
+	right atria + right ventricles = right heart
+	left atria + left ventriles = left heart
+
+Heart has four Valves
+	MitralValve is a atrioventricular Valve
+	TricuspidValve is a atrioventricular Valve
+	AorticValve is a semilunar valve
+	PulmonaryValve is a semilunar valve
+Valves of Heart ensure unidirectional blood flow through the heart
+Valves of Heart prevent backflow
+
+At any given time, the chambers of the Heart may be be found in one of two states
+	Systole: During systole, cardiac muscle tissue is contracting to push blood out of the chamber.
+	Diastole: During diastole, the cardiac muscle cells relax to allow the chamber to fill with blood. 
+	Blood pressure increases in the major arteries during ventricular systole and decreases during ventricular diastole.
+
+Heart pumps Blood through BloodVessels of CardiovascularSystem
+Heart circulates Blood through two pathways: the PulmonaryCircuit and the SystemicCircuit
+	In the pulmonary circuit, deoxygenated Blood leaves the right ventricle of the heart via the pulmonary artery and travels to the lungs, 
+	then returns as oxygenated blood to the left atrium of the heart via the pulmonary vein.
+
+	In the systemic circuit, oxygenated blood leaves the body via the left ventricle to the aorta, 
+	and from there enters the arteries and capillaries where it supplies the body's tissues with oxygen. 
+	Deoxygenated blood returns via veins to the venae cavae, re-entering the heart's right atrium.
+
+Blockage of Arteries can cause HeartAttack
+Blockage of Arteries can cause damange to Muscle of Heart
+Heart is able to set its own rhythm
+Heart beats about 100,000 times per day
+Heart beats about 60 to 80 times per minute
+Heart is able to conduct the signals necessary to maintain and coordinate this rhythm throughout its structures
+About 1% of the cardiac muscle cells in the heart are responsible for forming the conduction system that sets the pace for the rest of the cardiac muscle cells.
+Heart contains electrical "pacemaker" cells, which cause it to contract — producing a heartbeat.
+Heart contraction has five stages
+	EarlyDiastole: Heart is relaxed
+	AtrialSystole: Atrium contracts
+	Ventricles start contracting without changing volume
+	Ventricles continue contracting while empty
+	Ventricles stop contracting and relax
+
+Blood leave Heart through AorticValve
+Blood transports Oxygen and Nutrients, CarbonDioxide, Hormones, and BloodCells
+	(the digestive system works with the circulatory system to provide the nutrients the system needs to keep the heart pumping.)
+Blood consists of Plasma, RedBloodCells, WhiteBloodCells, Platelets
+Blood removes metabolic waste (carbon dioxide)
+Blood flows one way through the Heart due to HeartValves
+	HeartValves prevent backflow
+Blood provides Oxygen
+Blood provides Nutrients
+
