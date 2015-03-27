@@ -1,0 +1,23 @@
+﻿The cardiovascular system consists of the heart, blood vessels, and the approximately 5 liters of blood that the blood vessels transport. 
+Responsible for transporting oxygen, nutrients, hormones, and cellular waste products throughout the body, the cardiovascular system is 
+powered by the body’s hardest-working organ — the heart, which is only about the size of a closed fist. 
+
+Even at rest, the average heart easily pumps over 5 liters of blood throughout the body every minute.
+
+http://en.wikipedia.org/wiki/Heart
+
+Suggested test cases:
+
+Heart is an organ
+Heart pumps Blood through BloodVessels of CardiovascularSystem
+Blood transports Oxygen and Nutrients, CarbonDioxide, Hormones, and BloodCells
+	(the digestive system works with the circulatory system to provide the nutrients the system needs to keep the heart pumping.)
+Blood consists of Plasma, RedBloodCells, WhiteBloodCells, Platelets
+Blood removes metabolic waste
+Heart has four chambers 
+	upper left and right atria; and lower left and right ventricles
+
+Blood flows one way through the Heart due to HeartValves
+	HeartValves prevent backflow
+
+
